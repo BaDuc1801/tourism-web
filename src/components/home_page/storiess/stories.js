@@ -1,6 +1,6 @@
 const listStory = [
     {
-        img:"../src/assets/img/mumbai_india.png",
+        img:"../../src/assets/img/mumbai_india.png",
         location:"Mumbai, India",
         time:"Feb 27, 2023",
         read:"8 min read",
@@ -8,7 +8,7 @@ const listStory = [
         short:"I had always been interested in spirituality, so I  decided to take a year-long journey to India to explore various religious practices and traditions. "
     },
     {
-        img:"../src/assets/img/barca.png",
+        img:"../../src/assets/img/barca.png",
         location:"Barcelona, Spain",
         time:"Feb 27, 2023",
         read:"5 min read",
@@ -16,7 +16,7 @@ const listStory = [
         short:"I had just graduated from college and decided to take a six-month solo trip across Europe before starting my career. I backpacked through 15 different countries, staying in hostels and meeting people."
     },
     {
-        img:"../src/assets/img/nepal.png",
+        img:"../../src/assets/img/nepal.png",
         location:"Kathmandu, Nepal",
         time:"Feb 27, 2023",
         read:"6 min read",
@@ -24,14 +24,14 @@ const listStory = [
         short:"It was a beautiful spring morning when I arrived in Kathmandu, the capital city of Nepal. As soon as I stepped out of the airport, I was struck by the vibrant colors, the chaos of the streets."
     },
     {
-        img:"../src/assets/img/ukraine.png",
+        img:"../../src/assets/img/ukraine.png",
         location:"Prague, Ukraine",
         time:"Feb 27, 2023",
         read:"4 min read",
         title:"The Petrin Hill",
         short:"I visited Prague, the beautiful capital city of the Czech Republic, and one of my favorite places in the city was the Petrin Hill. The Petrin Hill is a green oasis in the heart of Prague."
     },{
-        img:"../src/assets/img/hawaii.png",
+        img:"../../src/assets/img/hawaii.png",
         location:"Hawaii, United States",
         time:"Feb 27, 2023",
         read:"8 min read",
@@ -39,7 +39,7 @@ const listStory = [
         short:"I had always been interested in spirituality, so I  decided to take a year-long journey to India to explore various religious practices and traditions. "
     },
     {
-        img:"../src/assets/img/rico-us.png",
+        img:"../../src/assets/img/rico-us.png",
         location:"Puerto Rico, United States",
         time:"Feb 27, 2023",
         read:"5 min read",
@@ -47,7 +47,7 @@ const listStory = [
         short:"I had just graduated from college and decided to take a six-month solo trip across Europe before starting my career. I backpacked through 15 different countries, staying in hostels and meeting people."
     },
     {
-        img:"../src/assets/img/texas.png",
+        img:"../../src/assets/img/texas.png",
         location:"San Antonio, Texas",
         time:"Feb 27, 2023",
         read:"6 min read",
@@ -55,7 +55,7 @@ const listStory = [
         short:"It was a beautiful spring morning when I arrived in Kathmandu, the capital city of Nepal. As soon as I stepped out of the airport, I was struck by the vibrant colors, the chaos of the streets."
     },
     {
-        img:"../src/assets/img/prague-ukraine.png",
+        img:"../../src/assets/img/prague-ukraine.png",
         location:"Prague, Ukraine",
         time:"Feb 27, 2023",
         read:"4 min read",
@@ -63,7 +63,7 @@ const listStory = [
         short:"I visited Prague, the beautiful capital city of the Czech Republic, and one of my favorite places in the city was the Petrin Hill. The Petrin Hill is a green oasis in the heart of Prague."
     },
     {
-        img:"../src/assets/img/hungary.png",
+        img:"../../src/assets/img/hungary.png",
         location:"Budapest, Hungary",
         time:"Feb 27, 2023",
         read:"6 min read",
@@ -71,7 +71,7 @@ const listStory = [
         short:"I had always been interested in spirituality, so I  decided to take a year-long journey to India to explore various religious practices and traditions. "
     },
     {
-        img:"../src/assets/img/greece.png",
+        img:"../../src/assets/img/greece.png",
         location:"Athens, Greece",
         time:"Feb 27, 2023",
         read:"6 min read",
@@ -79,7 +79,7 @@ const listStory = [
         short:"I had just graduated from college and decided to take a six-month solo trip across Europe before starting my career. I backpacked through 15 different countries, staying in hostels and meeting people."
     },
     {
-        img:"../src/assets/img/ecuado.png",
+        img:"../../src/assets/img/ecuado.png",
         location:"Banos Santa, Ecuador",
         time:"Feb 27, 2023",
         read:"6 min read",
@@ -87,7 +87,7 @@ const listStory = [
         short:"It was a beautiful spring morning when I arrived in Kathmandu, the capital city of Nepal. As soon as I stepped out of the airport, I was struck by the vibrant colors, the chaos of the streets."
     },
     {
-        img:"../src/assets/img/barca2.png",
+        img:"../../src/assets/img/barca2.png",
         location:"Barcelona, Spain",
         time:"Feb 27, 2023",
         read:"6 min read",
@@ -95,7 +95,7 @@ const listStory = [
         short:"I visited Prague, the beautiful capital city of the Czech Republic, and one of my favorite places in the city was the Petrin Hill. The Petrin Hill is a green oasis in the heart of Prague."
     },
     {
-        img: "../src/assets/img/hcm.jpg",
+        img: "../../src/assets/img/hcm.jpg",
         location: "Ho Chi Minh City, Vietnam",
         time: "Mar 15, 2023",
         read: "7 min read",
@@ -103,7 +103,7 @@ const listStory = [
         short: "I explored Ho Chi Minh City, formerly known as Saigon, and discovered its vibrant street food scene. From pho to banh mi, the flavors of the city captivated my taste buds."
     },
     {
-        img: "../../src/assets/img/phoco.jpg",
+        img: "../../../../src/assets/img/phoco.jpg",
         location: "Ha Noi, Vietnam",
         time: "May 02, 2023",
         read: "8 min read",
@@ -111,7 +111,7 @@ const listStory = [
         short: "Walking through the Old Quarter of Hanoi, I was enchanted by its narrow streets filled with traditional shops and ancient temples. Each corner offered a glimpse into the city's rich history and culture."
     },
     {
-        img: "../src/assets/img/haiphong.jpg",
+        img: "../../src/assets/img/haiphong.jpg",
         location: "Hai Phong, Vietnam",
         time: "Apr 18, 2023",
         read: "5 min read",
@@ -119,7 +119,7 @@ const listStory = [
         short: "In Hai Phong, I stumbled upon the tranquil Tam Bac Lake, where locals gather for morning exercises and tai chi. The peaceful atmosphere was a welcome escape from the bustling city."
     },
     {
-        img: "../src/assets/img/danang2.jpg",
+        img: "../../src/assets/img/danang2.jpg",
         location: "Da Nang, Vietnam",
         time: "Jun 09, 2023",
         read: "6 min read",
@@ -127,7 +127,7 @@ const listStory = [
         short: "Visiting Da Nang, I marveled at the Dragon Bridge illuminated by colorful lights at night. It's a symbol of the city's modernity and vibrant nightlife."
     },
     {
-        img: "../src/assets/img/cantho.jpg",
+        img: "../../src/assets/img/cantho.jpg",
         location: "Can Tho, Vietnam",
         time: "Jul 25, 2023",
         read: "5 min read",
@@ -135,7 +135,7 @@ const listStory = [
         short: "Experiencing the bustling Cai Rang Floating Market in Can Tho, I savored fresh fruits and local delicacies while cruising along the Mekong Delta's intricate waterways."
     },
     {
-        img: "../src/assets/img/nhatrang2.jpg",
+        img: "../../src/assets/img/nhatrang2.jpg",
         location: "Nha Trang, Vietnam",
         time: "Aug 14, 2023",
         read: "7 min read",
@@ -143,7 +143,7 @@ const listStory = [
         short: "Relaxing on the pristine beaches of Nha Trang, I explored the underwater world through snorkeling and discovered colorful coral reefs teeming with marine life."
     },
     {
-        img: "../src/assets/img/vungtau.jpg",
+        img: "../../src/assets/img/vungtau.jpg",
         location: "Vung Tau, Vietnam",
         time: "Sep 05, 2023",
         read: "6 min read",
@@ -151,7 +151,7 @@ const listStory = [
         short: "Escaping to Vung Tau, I climbed up to the Jesus Christ Statue for panoramic views of the city and the vast South China Sea. It was a perfect spot to watch the sunset."
     },
     {
-        img: "../src/assets/img/dalat.jpg",
+        img: "../../src/assets/img/dalat.jpg",
         location: "Da Lat, Vietnam",
         time: "Oct 19, 2023",
         read: "8 min read",
@@ -159,7 +159,7 @@ const listStory = [
         short: "Exploring Da Lat, the city of eternal spring, I wandered through vibrant flower gardens and admired French colonial architecture that adds to its unique charm."
     },
     {
-        img: "../src/assets/img/hue.png",
+        img: "../../src/assets/img/hue.png",
         location: "Hue, Vietnam",
         time: "Nov 08, 2023",
         read: "7 min read",
@@ -167,7 +167,7 @@ const listStory = [
         short: "In Hue, I explored the majestic Imperial City, where ancient palaces and temples stand as reminders of Vietnam's imperial past. The Perfume River added to the city's serene atmosphere."
     },
     {
-        img: "../src/assets/img/phuquoc.jpg",
+        img: "../../src/assets/img/phuquoc.jpg",
         location: "Phu Quoc, Vietnam",
         time: "Dec 03, 2023",
         read: "6 min read",

@@ -1,55 +1,55 @@
 const listReview = [
     {
-        img: "../src/assets/img/mumbai_india.png",
+        img: "../../src/assets/img/mumbai_india.png",
         loca: 'Mumbai, India',
         title: 'A Wonderful Journey to India',
         content1: 'India is a diverse and fascinating country with a rich history, vibrant culture, and stunning landscapes.',
         content2: 'From the bustling cities like Delhi, Mumbai, and Kolkata, to the serene backwaters of Kerala, India offers a unique and memorable travel experience for all kinds of travelers. The country is also home to many UNESCO World Heritage Sites, such as the Taj Mahal, the ancient city of Hampi, and the Ajanta and Ellora Caves.' 
     },
     {
-        img: "../src/assets/img/nepal.png",
+        img: "../../src/assets/img/nepal.png",
         loca: 'Kathmandu, Nepal',
         title: '11 Best Places to visit in Nepal',
         content1: 'I recently spent two weeks in Nepal and it was one of the most memorable trips of my life. The people were incredibly friendly and welcoming, and I was amazed by the beauty of the natural landscape. The highlight of my trip was trekking in the Himalayas. The views were simply breathtaking and the experience of reaching the Everest Base Camp was truly unforgettable.',
         content2: 'I also spent a day in Chitwan National Park.'
     },
     {
-        img: "../src/assets/img/barca.png",
+        img: "../../src/assets/img/barca.png",
         loca: 'Barcelona, Spain',
         title: 'A Solo Trip Across Europe',
         content1: 'Europe is a home to stunning natural landscapes like the Swiss Alps, the Norwegian fjords, and the beaches of the Mediterranean coast. The European countries are well-connected through a vast network of trains, making it easy to travel across the continent.',
         content2: 'The art, architecture, and cuisine in each of these cities reflect their unique cultural heritage., are popular tourist attractions, offering visitors a glimpse of the rich history and artistry of these cities.'
     },
     {
-        img: "../src/assets/img/hanoi.jpg",
+        img: "../../src/assets/img/hanoi.jpg",
         loca: "Hanoi, Vietnam",
         title: "A Solo Trip Across Vietnam",
         content1: "Hanoi, the capital of Vietnam, is known for its centuries-old architecture and a rich culture with Southeast Asian, Chinese and French influences. The city is also famous for its vibrant street markets and delicious cuisine.",
         content2: "Popular attractions include the Ho Chi Minh Mausoleum, the Old Quarter, and the beautiful Hoan Kiem Lake, offering visitors a glimpse of the rich history and artistry of the city."
     },
     {
-        img: "../src/assets/img/halong.jpg",
+        img: "../../src/assets/img/halong.jpg",
         loca: "Quảng Ninh, Vietnam",
         title: "Exploring Northern Vietnam",
         content1: "Quảng Ninh province is famous for its stunning natural landscapes and cultural richness. It is home to Ha Long Bay, a UNESCO World Heritage site known for its emerald waters and thousands of towering limestone islands topped with rainforests.",
         content2: "Visitors can also explore the vibrant local culture and enjoy fresh seafood delicacies while experiencing the unique beauty of this coastal region."
     },
     {
-        img: "../src/assets/img/ninhbinh.jpg",
+        img: "../../src/assets/img/ninhbinh.jpg",
         loca: "Ninh Binh, Vietnam",
         title: "Discovering Ninh Binh's Natural Beauty",
         content1: "Ninh Binh is known for its picturesque landscapes, with limestone mountains, lush rice paddies, and winding rivers. It's often referred to as 'Ha Long Bay on land' due to its similar karst formations.",
         content2: "Highlights include the ancient capital Hoa Lu, Tam Coc's stunning river caves, and the Bai Dinh Pagoda complex, offering a blend of history, spirituality, and natural beauty."
     },
     {
-        img: "../src/assets/img/lamdong.jpg",
+        img: "../../src/assets/img/lamdong.jpg",
         loca: "Lam Dong, Vietnam",
         title: "Exploring the Central Highlands",
         content1: "Lam Dong province is known for its cool climate, lush green hills, and picturesque landscapes. It's home to Da Lat, a charming city often called the 'City of Eternal Spring' for its pleasant weather year-round.",
         content2: "Visitors can explore flower gardens, coffee plantations, and waterfalls, and enjoy the unique architecture influenced by French colonialism, making it a popular destination for both nature lovers and architecture enthusiasts."
     },
     {
-        img: "../src/assets/img/phuquoc2.jpg",
+        img: "../../src/assets/img/phuquoc2.jpg",
         loca: "Phu Quoc, Vietnam",
         title: "Relaxing on Phu Quoc Island",
         content1: "Phu Quoc is Vietnam's largest island, known for its pristine beaches, clear waters, and lush tropical landscapes. It's a popular destination for beach lovers and offers opportunities for snorkeling, diving, and exploring nature reserves.",
@@ -70,21 +70,21 @@ const listReview = [
         content2: "Visitors can explore attractions like Ba Na Hills, My Khe Beach, and the ancient town of Hoi An nearby, known for its well-preserved ancient architecture and rich cultural heritage."
     },
     {
-        img: "../src/assets/img/hoian.jpg",
+        img: "../../src/assets/img/hoian.jpg",
         loca: "Quang Nam, Vietnam",
         title: "Exploring Ancient Culture",
         content1: "Quang Nam province is known for its rich history, ancient architecture, and cultural heritage. It's home to Hoi An Ancient Town, a UNESCO World Heritage site famous for its well-preserved buildings and lantern-lit streets.",
         content2: "Visitors can also explore My Son Sanctuary, Cham Islands, and traditional villages, experiencing the blend of Vietnamese, Cham, and Chinese influences in the region's culture and architecture."
     },
     {
-        img: "../src/assets/img/hue.png",
+        img: "../../src/assets/img/hue.png",
         loca: "Hue, Vietnam",
         title: "Exploring Imperial Vietnam",
         content1: "Hue was Vietnam's imperial capital, known for its Citadel, royal tombs, and pagodas. It's a city steeped in history and cultural significance, offering insights into Vietnam's feudal past.",
         content2: "Highlights include the Perfume River, Thien Mu Pagoda, and the Imperial City, where visitors can explore the complex of palaces, temples, and historic architecture."
     },
     {
-        img: "../src/assets/img/nhatrang.jpg",
+        img: "../../src/assets/img/nhatrang.jpg",
         loca: "Khanh Hoa, Vietnam",
         title: "Relaxing in Nha Trang",
         content1: "Khanh Hoa province is home to Nha Trang, a coastal city famous for its beautiful beaches, clear waters, and vibrant marine life. It's a popular destination for beachgoers, water sports enthusiasts, and spa lovers.",
