@@ -1,0 +1,20 @@
+.list-hn-if img{
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.list-hn-if p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.list-hn-if h1{
+    margin-top: 50px;
+    font-size: 24px;
+}
+
+.huhuhu{
+    margin-left: 180px;
+    margin-right: 180px;
+}

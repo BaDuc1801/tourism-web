@@ -1,0 +1,188 @@
+.section1-review{
+    background-color: white;
+}
+
+.rv{
+    color: black;
+}
+
+.but-rv{
+    color: #4169E1;
+}
+
+.but-rv:hover{
+    color: white;
+    background-color: #4169E1;
+    cursor: pointer;
+}
+
+.rv-search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rv-se{
+    width: 900px;
+    margin-top: 100px;
+}
+
+.rv-se input{
+    width: 100%;
+}
+
+.rv-card {
+    margin: 0px 180px 100px 180px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.rv-img img{
+    width: 600px;
+    height: 100%;
+    border-radius: 32px;
+}
+
+.rv-img{
+    flex: 1;
+    margin-right: 100px;
+}
+
+.rv-content{
+    flex: 1;
+}
+
+.rv-loca {
+    font-size: 20px;
+    color: #858585;
+    margin-bottom: 20px;
+}
+
+.rv-title{
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 48px;
+}
+
+.rv-content1{
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.rv-content2{
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.rv-rate{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.custom-rate{
+    font-size: 30px;
+}
+
+.c-r{
+    font-size: 20px;
+    color: #4169E1;
+}
+
+.wr {
+    margin: 200px 180px;
+    display: flex;
+    gap: 100px;
+}
+
+.wr-img img{
+    width: 500px;
+    height: 400px;
+    cursor: pointer;
+}
+
+.image-section, .form-section {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.image-placeholder {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border: 1px solid #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0f0f0;
+}
+
+.image-placeholder img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+}
+
+form {
+    width: 100%;
+    max-width: 600px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 20px;
+}
+
+input[type="text"], textarea, select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+textarea {
+    height: 100px;
+}
+
+.checkbox-group {
+    display: flex;
+    align-items: flex-start;
+}
+
+.checkbox-group input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+.checkbox{
+    font-size: 30px;
+}
+
+.sub {
+    background-color: #4169E1;
+    border: none;
+    border-radius: 32px;
+    padding: 20px 30px;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+    width: 200px;
+    height: 70px;
+}
+
+.sub:hover{
+    font-size: 20px;
+}
+
+.bacl{
+    color: black;
+}
