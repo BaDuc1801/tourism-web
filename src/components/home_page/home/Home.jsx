@@ -54,7 +54,7 @@ const Home = () => {
   return (
     <div>
       <div className='section1'>
-        <img className='section1-img' src='../src/assets/img/main.jpg'></img>
+        <img className='section1-img' src='../../src/assets/img/main.jpg'></img>
         <div className="nav">
           <div className="nav-bar">
             <div className="lgo">
@@ -141,7 +141,7 @@ const Home = () => {
         </div>
       </div>
       <div className='footer'>
-        <img src="../src/assets/img/logo.png"></img>
+        <img src="../../src/assets/img/logo.png"></img>
         <p>© 2023 Travel Pulse. All rights reserved</p>
       </div>
     </div>
